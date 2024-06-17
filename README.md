@@ -1,6 +1,6 @@
 # How CUDA?
 
-This repository contains several examples of CUDA C/C++ code, and isprimarily intended to support the corresponding material in CS475/CS575 (parallel programming) at Colorado State University.
+This repository contains several examples of CUDA C/C++ code, and is primarily intended to support the corresponding material in CS475/CS575 (parallel programming) at Colorado State University.
 
 ## Prereqs
 
